@@ -30,7 +30,7 @@ public class TesterFinch {
        System.out.println(bird.getCompass());
        bird.stopAll();
 
-       // 
+       
    
    }
 
